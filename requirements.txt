@@ -12,3 +12,4 @@ python-docx
 pillow
 pytesseract
 langchain-huggingface
+docx
